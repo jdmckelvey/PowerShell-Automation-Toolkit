@@ -1,0 +1,13 @@
+<svg width="1100" height="520" viewBox="0 0 1100 520" xmlns="http://www.w3.org/2000/svg">
+<style>.box{fill:#f8fafc;stroke:#334155;stroke-width:2;rx:16}.blue{fill:#dbeafe}.green{fill:#dcfce7}.yellow{fill:#fef9c3}.text{font-family:Segoe UI,Arial;font-size:22px;fill:#0f172a}.small{font-size:17px;fill:#334155}.arrow{stroke:#334155;stroke-width:3;marker-end:url(#a)}</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<text x="40" y="45" class="text" font-weight="700">PowerShell Automation Workflow</text>
+<rect x="55" y="100" width="210" height="95" class="box blue"/><text x="90" y="140" class="text">IT Admin</text><text x="88" y="170" class="small">Runs scripts/toolkit</text>
+<rect x="345" y="100" width="230" height="95" class="box green"/><text x="382" y="140" class="text">PowerShell</text><text x="382" y="170" class="small">Automation layer</text>
+<rect x="665" y="100" width="250" height="95" class="box yellow"/><text x="702" y="140" class="text">Active Directory</text><text x="716" y="170" class="small">Users, groups, OUs</text>
+<line x1="265" y1="148" x2="345" y2="148" class="arrow"/><line x1="575" y1="148" x2="665" y2="148" class="arrow"/>
+<rect x="170" y="290" width="210" height="90" class="box"/><text x="213" y="328" class="text">CSV Input</text><text x="203" y="358" class="small">New hires / disables</text>
+<rect x="445" y="290" width="235" height="90" class="box"/><text x="493" y="328" class="text">Bulk Actions</text><text x="488" y="358" class="small">Create, move, report</text>
+<rect x="745" y="290" width="230" height="90" class="box"/><text x="803" y="328" class="text">Reports</text><text x="793" y="358" class="small">CSV exports / results</text>
+<line x1="380" y1="335" x2="445" y2="335" class="arrow"/><line x1="680" y1="335" x2="745" y2="335" class="arrow"/><line x1="460" y1="195" x2="460" y2="290" class="arrow"/>
+</svg>
