@@ -147,81 +147,60 @@ Active Directory
 
 ## Administrative Toolkit
 
-> Replace these image paths if your filenames differ.
-
-```markdown
 ![Admin Toolkit](assets/screenshots/powershell/admin-toolkit-menu.png)
-```
 
 ---
 
 ## Create New User
 
-```markdown
 ![Create User](assets/screenshots/powershell/new-user-created.png)
-```
 
 ---
 
 ## Password Reset
 
-```markdown
 ![Password Reset](assets/screenshots/powershell/password-reset.png)
-```
 
 ---
 
 ## Unlock Account
 
-```markdown
 ![Unlock Account](assets/screenshots/powershell/unlock-account-result.png)
-```
 
 ---
 
 ## Add User To Group
 
-```markdown
 ![Group Membership](assets/screenshots/powershell/add-user-to-group-result.png)
-```
 
 ---
 
 ## Remove User From Group
 
-```markdown
 ![Remove User](assets/screenshots/powershell/remove-user-from-group-result.png)
-```
 
 ---
 
 ## Bulk User Creation
 
-```markdown
 ![Bulk Users](assets/screenshots/powershell/bulk-new-employees-result.png)
-```
 
 ---
 
 ## Disabled Users Report
 
-```markdown
 ![Disabled Users](assets/screenshots/powershell/disabled-users-result.png)
-```
 
 ---
 
 ## User Report
 
-```markdown
 ![User Report](assets/screenshots/powershell/user-report.png)
-```
 
 ---
 
 ## Active Directory
 
-```markdown
 ![OU Structure](assets/screenshots/active-directory/ou-structure.png)
 
 ![Security Groups](assets/screenshots/active-directory/security-groups.png)
